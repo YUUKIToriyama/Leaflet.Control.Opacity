@@ -21,7 +21,14 @@
   "homepage": "https://github.com/dayjournal/Leaflet.Control.Opacity#readme",
   "devDependencies": {
     "@types/leaflet": "^1.7.4",
+    "@types/node": "^16.4.1",
+    "cz-conventional-changelog": "^3.3.0",
     "leaflet": "^1.7.1",
     "typescript": "^4.3.5"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
   }
 }
