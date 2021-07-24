@@ -18,5 +18,10 @@
   "bugs": {
     "url": "https://github.com/dayjournal/Leaflet.Control.Opacity/issues"
   },
-  "homepage": "https://github.com/dayjournal/Leaflet.Control.Opacity#readme"
+  "homepage": "https://github.com/dayjournal/Leaflet.Control.Opacity#readme",
+  "devDependencies": {
+    "@types/leaflet": "^1.7.4",
+    "leaflet": "^1.7.1",
+    "typescript": "^4.3.5"
+  }
 }

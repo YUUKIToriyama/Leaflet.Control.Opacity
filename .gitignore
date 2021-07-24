@@ -11,3 +11,4 @@ docs/plugin/Leaflet.Control.Opacity/src/.DS_Store
 .idea/vcs.xml
 .idea/workspace.xml
 docs/plugin/.DS_Store
+node_modules
