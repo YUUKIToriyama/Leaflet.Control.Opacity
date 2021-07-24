@@ -3,7 +3,7 @@ import {
 	_Layer
 } from './utils'
 
-namespace L.Control {
+export namespace L.Control {
 	export interface OpacityConstructorOptions extends leaflet.ControlOptions {
 		collapsed: boolean
 		label: string | null

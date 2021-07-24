@@ -6,7 +6,7 @@
         "strict": true,
         "outDir": "./dist",
         "module": "CommonJS",
-        "jsx": "react",
+        "declaration": true,
         "lib": ["ES5", "ES6", "DOM"],
         "allowSyntheticDefaultImports": true,
         "esModuleInterop": true,
